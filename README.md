@@ -9,6 +9,9 @@ Projeto para digitalizar biblioteca municipal com a finalidade de melhorar a exp
 
 URL do documento Swagger: http://localhost:8080/swagger-ui/index.html
 
+<img src="./images/swagger.png" alt="Texto alternativo" width="720"/>
+
+
 ## UML do Projeto
 
 ```mermaid
